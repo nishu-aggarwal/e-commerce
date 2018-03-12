@@ -1,0 +1,59 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.4.4
+  http://backwpup.com
+  Blog Name: Saral Aajivika
+  Blog URL: http://localhost/wp/wordpress
+  Generated on: 2018-03-10 10:51.51
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+Akismet Anti-Spam (v.4.0.2) from Automattic
+	https://akismet.com/
+BackWPup (v.3.4.4) from Inpsyde GmbH
+	http://backwpup.com
+Frontend Dashboard (v.1.2.11) from vinoth06
+	https://buffercode.com/plugin/frontend-dashboard
+Frontend Dashboard Templates (v.1.6.1) from vinoth06
+	
+Hello Dolly (v.1.6) from Matt Mullenweg
+	http://wordpress.org/plugins/hello-dolly/
+Insert PHP (v.1.3) from Will Bontrager Software, LLC <will@willmaster.com>
+	http://www.willmaster.com/software/WPplugins/
+Members (v.2.0.2) from Justin Tadlock
+	https://themehybrid.com/plugins/members
+Profile Builder (v.2.7.6) from Cozmoslabs, Madalin Ungureanu, Antohe Cristian, Barina Gabriel, Mihai Iova
+	https://www.cozmoslabs.com/wordpress-profile-builder/
+ProfilePress Lite (v.1.5.2) from ProfilePress Team
+	https://profilepress.net
+Shortcake (Shortcode UI) (v.0.7.3) from Fusion Engineering and community
+	
+Theme My Login (v.6.4.10) from Jeff Farthing
+	http://www.jfarthing.com/extend/wordpress-plugins/theme-my-login/
+User Registration (v.1.2.0) from WPEverest
+	https://wpeverest.com/plugins/user-registration
+WooCommerce (v.3.3.3) from Automattic
+	https://woocommerce.com/
+WP eCommerce (v.3.13.1) from WP eCommerce
+	http://wpecommerce.org/
+
+Active plugins:
+------------------------------
+BackWPup
+Frontend Dashboard
+Insert PHP
+Members
+ProfilePress Lite
+Shortcake (Shortcode UI)
+WooCommerce
+
+Inactive plugins:
+------------------------------
+Akismet Anti-Spam
+Frontend Dashboard Templates
+Hello Dolly
+Profile Builder
+Theme My Login
+User Registration
+WP eCommerce
